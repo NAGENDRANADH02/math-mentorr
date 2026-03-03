@@ -8,6 +8,7 @@ An end-to-end AI system designed to solve JEE-style math problems reliably using
 - Persistent Memory & Self-Learning
 
 ---
+Live Link: https://math-mentorr-klshptokqbmtzvjjxpdn4k.streamlit.app/
 
 # 🎯 Objective
 
